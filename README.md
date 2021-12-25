@@ -1,7 +1,7 @@
 # YONGHWA_EV3
 2022용화고 ev3<br>
 <br>1일차
-<br><a herf= https://education.lego.com/v3/assets/blt293eea581807678a/bltdb0d9e7188f73df5/5ec7bfb29b2ffb61d5c8091a/ev3-rem-driving-base.pdf>드라이빙 베이스 조립법 </a>
+<br><a herf="https://education.lego.com/v3/assets/blt293eea581807678a/bltdb0d9e7188f73df5/5ec7bfb29b2ffb61d5c8091a/ev3-rem-driving-base.pdf">드라이빙 베이스 조립법 </a>
 <br>
 <br>인텔리브릭 간단설명
 <br>https://www.lego.com/cdn/cs/set/assets/bltf4e71cba34b6b00d/User_Guide_LEGO_MINDSTORMS_EV3_11_All_KO.pdf
