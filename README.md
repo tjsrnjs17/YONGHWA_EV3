@@ -5,6 +5,7 @@
 <br>[EV3 코딩 프로그램](https://education.lego.com/ko-kr/downloads/mindstorms-ev3/software)
 <br>
 <br>-2일차
+<br>[터치 센서 조립법](https://education.lego.com/v3/assets/blt293eea581807678a/blt95682a19090a6923/5f8801e2ad20281d51fbc1cc/ev3-touch-sensor-driving-base.pdf)
 <br>[초음파 센서 조립법](https://education.lego.com/v3/assets/blt293eea581807678a/bltedef29b6f889ec04/5ec7bfe42de1237ddb71fd6a/ev3-ultrasonic-sensor-driving-base.pdf)
 <br>
 <br>-3일차
