@@ -2,7 +2,7 @@
 2022용화고 ev3<br>
 <br>*1일차
 <br>*[드라이빙 베이스 조립법](https://education.lego.com/v3/assets/blt293eea581807678a/bltdb0d9e7188f73df5/5ec7bfb29b2ffb61d5c8091a/ev3-rem-driving-base.pdf)
-<br>[인텔리브릭 간단설명](https://www.lego.com/cdn/cs/set/assets/bltf4e71cba34b6b00d/User_Guide_LEGO_MINDSTORMS_EV3_11_All_KO.pdf)
+<br>[EV3 사용설명서](https://www.lego.com/cdn/cs/set/assets/bltf4e71cba34b6b00d/User_Guide_LEGO_MINDSTORMS_EV3_11_All_KO.pdf)
 <br>
 <br>2일차
 <br>[초음파 센서 조립법](https://education.lego.com/v3/assets/blt293eea581807678a/bltedef29b6f889ec04/5ec7bfe42de1237ddb71fd6a/ev3-ultrasonic-sensor-driving-base.pdf)
