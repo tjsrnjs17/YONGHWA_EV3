@@ -2,7 +2,7 @@
 <br>-1일차
 <br>[드라이빙 베이스 조립법](https://education.lego.com/v3/assets/blt293eea581807678a/bltdb0d9e7188f73df5/5ec7bfb29b2ffb61d5c8091a/ev3-rem-driving-base.pdf)
 <br>[EV3 사용설명서](https://www.lego.com/cdn/cs/set/assets/bltf4e71cba34b6b00d/User_Guide_LEGO_MINDSTORMS_EV3_11_All_KO.pdf)
-<br>[EV3 코딩 프로그램](https://education.lego.com/ko-kr/downloads/mindstorms-ev3/software)
+<br>[EV3 코딩 프로그램 다운로드](https://education.lego.com/ko-kr/downloads/mindstorms-ev3/software)
 <br>
 <br>-2일차
 <br>[터치 센서 조립법](https://education.lego.com/v3/assets/blt293eea581807678a/blt95682a19090a6923/5f8801e2ad20281d51fbc1cc/ev3-touch-sensor-driving-base.pdf)
