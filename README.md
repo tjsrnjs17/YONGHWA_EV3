@@ -1,4 +1,6 @@
 # 2022 용화고 ev3 캠프 20220103~20220107
+PPT 자료는 상단의 "n일차" 폴더에 있습니다. 
+본 문서는 조립법등 자료에 관한 링크가 작성 되어있습니다.
 <br>*[시작 전 설문](https://education.lego.com/v3/assets/blt293eea581807678a/bltdb0d9e7188f73df5/5ec7bfb29b2ffb61d5c8091a/ev3-rem-driving-base.pdf)*
 <br>-1일차
 <br>[드라이빙 베이스 조립법](https://education.lego.com/v3/assets/blt293eea581807678a/bltdb0d9e7188f73df5/5ec7bfb29b2ffb61d5c8091a/ev3-rem-driving-base.pdf)
