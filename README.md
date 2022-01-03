@@ -11,15 +11,15 @@
 <br>-2일차
 <br>[터치 센서 조립법](https://education.lego.com/v3/assets/blt293eea581807678a/blt95682a19090a6923/5f8801e2ad20281d51fbc1cc/ev3-touch-sensor-driving-base.pdf)
 <br>[초음파 센서 조립법](https://education.lego.com/v3/assets/blt293eea581807678a/bltedef29b6f889ec04/5ec7bfe42de1237ddb71fd6a/ev3-ultrasonic-sensor-driving-base.pdf)
-<br><br>*[2일차 후기 설문](https://education.lego.com/v3/assets/blt293eea581807678a/bltdb0d9e7188f73df5/5ec7bfb29b2ffb61d5c8091a/ev3-rem-driving-base.pdf)*
+<br><br>*[2일차 후기 설문](https://docs.google.com/forms/d/e/1FAIpQLSfQW1Wu56zTftSh7hDoNiXGnkng9wysH9pDDUqEyKHcq9L6TQ/viewform?usp=sf_link)*
 <br><br>
 <br>-3일차
 <br>[컬러 센서 조립법](https://education.lego.com/v3/assets/blt293eea581807678a/bltf0abfd3aebba904b/5ec7c0f300455b25665ae803/ev3-rem-color-sensor-down-driving-base.pdf)
-<br><br>*[3일차 후기 설문](https://education.lego.com/v3/assets/blt293eea581807678a/bltdb0d9e7188f73df5/5ec7bfb29b2ffb61d5c8091a/ev3-rem-driving-base.pdf)*
+<br><br>*[3일차 후기 설문](https://docs.google.com/forms/d/e/1FAIpQLSexvSMabLCD2eStOZZqD8BaY7I8V-TjRwmXq-O8UzQeAdhCjg/viewform?usp=sf_link)*
 <br><br>
 <br>-4일차
 <br>[자이로 센서 조립법](https://education.lego.com/v3/assets/blt293eea581807678a/blt51ab0df04cfb5661/5ec7c14c1df2000f9ba978ef/ev3-gyro-sensor-driving-base.pdf)
-<br><br>*[4일차 후기 설문](https://education.lego.com/v3/assets/blt293eea581807678a/bltdb0d9e7188f73df5/5ec7bfb29b2ffb61d5c8091a/ev3-rem-driving-base.pdf)*
+<br><br>*[4일차 후기 설문](https://docs.google.com/forms/d/e/1FAIpQLSfCcl279becuiLCzXVmAb8fnRKjDpmmiNACUB1uL0qjT2bDvg/viewform?usp=sf_link)*
 <br><br>
 <br>--5일차
 <br>AI융합 축구 대회 설명...
