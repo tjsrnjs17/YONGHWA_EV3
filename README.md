@@ -1,5 +1,4 @@
 # 2022 용화고 ev3 캠프 20220103~20220107
-[아마존 로봇](https://www.youtube.com/watch?v=Ox05Bks2Q3s)
 본 문서는 조립법등 자료에 관한 링크가 작성 되어있습니다.
 <br>PPT 자료는 상단의 "n일차" 폴더에 있습니다. 
 <br>*[시작 전 설문](https://docs.google.com/forms/d/e/1FAIpQLSe0nOhGm_ZBKW0OFo9lBHlCywTeAvq-cEUe-yzHrGRytK1TKQ/viewform?usp=sf_link)*
