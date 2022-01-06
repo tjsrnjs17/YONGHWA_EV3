@@ -19,7 +19,7 @@
 <br><br>
 <br>-4일차
 <br>[자이로 센서 조립법](https://education.lego.com/v3/assets/blt293eea581807678a/blt51ab0df04cfb5661/5ec7c14c1df2000f9ba978ef/ev3-gyro-sensor-driving-base.pdf)
-<br><br>*[4일차 후기 설문](https://docs.google.com/forms/d/e/1FAIpQLSfCcl279becuiLCzXVmAb8fnRKjDpmmiNACUB1uL0qjT2bDvg/viewform?usp=sf_link)*
+<br><br>*[4일차 후기 설문 (자이로센서)](https://docs.google.com/forms/d/e/1FAIpQLSfCcl279becuiLCzXVmAb8fnRKjDpmmiNACUB1uL0qjT2bDvg/viewform?usp=sf_link)*
 <br><br>
 <br>--5일차
 <br>[AI융합 축구 대회 설명](https://youtu.be/thWstyBXdNQ)
