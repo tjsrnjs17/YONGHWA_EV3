@@ -23,4 +23,4 @@
 <br><br>
 <br>--5일차
 <br>[AI융합 축구 대회 설명](https://youtu.be/thWstyBXdNQ)
-<br>[AI융합 축구 대회 경기 영상](https://youtu.be/a46CRk-bDuo)
+<br>[AI융합 축구 대회 경기 영상](https://youtu.be/w0ugC8VYmaA)
